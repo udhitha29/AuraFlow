@@ -1,16 +1,58 @@
-# React + Vite
+# AuraFlow – AI-Driven Multilingual Media Delivery Pipeline
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
 
-Currently, two official plugins are available:
+AuraFlow is an AI-driven multilingual media localization platform designed to simplify the process of adapting media content for different languages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project focuses on automating multilingual content delivery through an easy-to-use web interface.
 
-## React Compiler
+## 📅 Project Timeline
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**February 2026 – April 2026**
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Multilingual media localization
+- AI-assisted content processing
+- Media upload and processing workflow
+- Interactive web interface
+- Responsive UI
+- Modern React-based frontend
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript
+- Vite
+- HTML
+- CSS
+
+## 🌐 Live Demo
+
+https://aura-flow-multi-agent-content-local.vercel.app/
+
+## 💻 Run Locally
+
+### 1. Clone the repository
+
+git clone https://github.com/udhitha29/AuraFlow.git
+
+### 2. Open the project
+
+cd AuraFlow
+
+### 3. Install dependencies
+
+npm install
+
+### 4. Start the development server
+
+npm run dev
+
+The application will be available at the local URL shown in the terminal.
+
+## 👩‍💻 Author
+
+**Udhitha Reddy**
+
+GitHub: https://github.com/udhitha29
